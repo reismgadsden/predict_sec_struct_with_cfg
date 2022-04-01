@@ -4,7 +4,7 @@ This program will find a secondary structure using a Context Free Grammar.
 
 author: Reis Gadsden
 version: 04/01/22
-git:
+git: https://github.com/reismgadsden/predict_sec_struct_with_cfg
 
 class: CS-5531-101 @ Appalachian State University
 instructor: Dr. Mohammad Mohebbi
