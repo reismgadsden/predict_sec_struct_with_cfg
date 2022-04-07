@@ -30,7 +30,7 @@ Takes no arguments only makes calls to and print
 out the output of our two methods.
 """
 def main():
-    sequence = "GGCGGUGAAAUGCC"
+    sequence = "UGAAAGGGUUAUUACUACUAAUACAAGACCAGUUCGUGUCGCACAUCCACGCUUUUGACCAGUCAGAUAGCGGUGGAGCCCAACGUAACGAGCAGUGGGU"
     standard_pair = predict_secondary_structure(sequence)
     stochastic_pair = predict_stochastic_secondary_structure(sequence)
     print("Sequence: " + sequence)
